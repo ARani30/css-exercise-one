@@ -35,6 +35,7 @@ h3
 {
   font-size: 1.3em;
 }
+
 /* Sample div */
 .element
 {
@@ -42,4 +43,10 @@ h3
   height: 100px;
   margin: 10px 0;
   width: 100%;
+}
+
+/* divs with different color */
+.different
+{
+  background-color: blue;
 }
